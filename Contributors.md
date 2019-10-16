@@ -5,9 +5,11 @@
 - [Mamoor Jaan Khan](https://github.com/MamoorJaanKhan)
 - [Seung Joon Eric Lee](https://github.com/ericlee1996)
 - [Gustavo M](https://github.com/foofate)
+-[Sujal Vajire](https://github.com/Sujal-vajire)
 - [Naman Gupta](https://github.com/namangup)
 - [Chiranjeevi Yadav](https://github.com/Chiranjeevi-Yadav)
 - [Akash Tyagi](https://github.com/Akashtyagi08)
+
 - [Tom Cole](https://github.com/TomC-Codes)
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Quince Joz-Bruer](https://github.com/the-german)
